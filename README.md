@@ -1,6 +1,8 @@
 ## Olá! Eu sou o Gabriel Ahrends 👋
 
 
-- 🔭 Hoje faço estágio em TI
-- 🌱 Estudando Python
+- 🔭 Estagiário em TI
+- 🌱 Python
+- 🌱 Power BI
+- 🌱 SQL
 - 😄 Pronouns: Ele/Dele
