@@ -1,58 +1,51 @@
-<h4 align="left">Olá! 👋 Meu nome é Gabriel Ahrends e sou graduando em Análise e Desenvolvimento de Sistemas pelo IBMR. Estou focado em alcançar meus objetivos profissionais e pessoais, com a meta de me tornar um Engenheiro MLOps no futuro. Para isso, busco constantemente novos conhecimentos e certificações que me ajudem a chegar lá.<br><br>Atualmente, sou estagiário no Banco do Brasil, atuando na área de backoffice. Meu trabalho envolve manipulação de datasets, bancos de dados relacionais, SQL, processos ETL, e Python, entre outras tecnologias.</h4>
+<h3 align="left">
+🚀 <strong>Engenheiro de IA e Software | 3+ anos construindo sistemas inteligentes</strong>
+</h3>
 
-###
+<p align="left" style="font-size: 15px; line-height: 1.55;">
+Sou Engenheiro de IA e Software com experiência no desenvolvimento de soluções inteligentes em escala, atuando com IA generativa, automação avançada, arquiteturas multi-agente e aplicações orientadas a LLMs. Minha experiência combina engenharia de software moderna com práticas robustas de MLOps e arquitetura cloud para entregar sistemas confiáveis, escaláveis e de alto impacto.<br><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhrendsW&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhrendsW&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Trabalho com criação de pipelines de IA ponta a ponta — desde protótipos e PoCs até arquiteturas de produção — utilizando tecnologias como <strong>Google ADK</strong>, <strong>LangChain</strong>, <strong>LangGraph</strong>, pipelines <strong>RAG/Graph RAG</strong>, além de integrações diretas com APIs de LLMs (Gemini, OpenAI/Azure, Groq, Ollama). Atuo também com aplicações full-stack utilizando <strong>Python (FastAPI)</strong>, <strong>TypeScript (Next.js, React)</strong> e práticas modernas de engenharia.<br><br>
 
-###
+Minha vivência inclui participação em projetos estratégicos nos setores <strong>financeiro, energia, telecom e aeroespacial</strong>, contribuindo para otimização de processos, criação de automações inteligentes e implantação de sistemas capazes de gerar ROI direto e mensurável.
+</p>
 
-<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM5NjA4NjIsIm5iZiI6MTcyMzk2MDU2MiwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MjQtYjNmZWYyZGItZTY3MS00NjEwLWJiODQtMWQ2NTUzM2RjNWZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE4VDA1NTYwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNhZWMzYThlNTk2MGYyYzFjYTBhYzkwNGRkYzQ3YTdjMjMxZTVmNWI2ZjYxODhhZjE5NjMxZDViMzllZWRjMjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xl6LnDaQ9DQxaMaYrRkKGY3IT5BNx29wwIKWQuLdSgA"  />
+<br>
 
-###
+<h3>🧠 Áreas de Especialização</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="30" alt="apache logo"  />
-</div>
+<ul style="font-size: 15px; line-height: 1.55;">
+  <li><strong>IA Generativa & LLMs:</strong> Integração de modelos, engenharia de prompts, fine-tuning, pipelines multi-agentes, RAG/Graph RAG, bancos vetoriais (Pinecone, Chroma, PGVector).</li>
+  <li><strong>Desenvolvimento de Software:</strong> Python, TypeScript/JavaScript, Java · FastAPI, Node.js, Next.js, React, Spring Boot · Arquitetura de microsserviços.</li>
+  <li><strong>MLOps & Infraestrutura:</strong> Deploy de modelos, testes A/B, observabilidade, logging distribuído · Docker, Kubernetes, Cloud Run · CI/CD aplicado a sistemas de IA.</li>
+  <li><strong>Cloud:</strong> GCP (Vertex AI, Cloud Run), AWS, Azure (incluindo Microsoft Copilot Studio).</li>
+  <li><strong>Engenharia de Dados:</strong> ETL/ELT, processamento em tempo real, PostgreSQL, MongoDB, Redis.</li>
+</ul>
 
-###
+<br>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-andrade-655908184/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<h3>🏗️ Filosofia de Engenharia</h3>
 
-###
+<p align="left" style="font-size: 15px; line-height: 1.55;">
+Acredito em unir engenharia de software sólida com IA de ponta para criar soluções escaláveis, seguras e eficientes em custo. Meu foco está em alta disponibilidade, design limpo, boas práticas, observabilidade e evolução contínua.  
+Atuo com mentalidade orientada a produto, entregando valor real desde o primeiro ciclo e garantindo que cada solução seja mantível, extensível e alinhada ao objetivo estratégico do negócio.
+</p>
 
-<br clear="both">
+<br>
 
-<img src="https://raw.githubusercontent.com/AhrendsW/AhrendsW/output/snake.svg" alt="Snake animation" />
+<h3>🌐 Experiência em Clientes & Setores</h3>
 
-###
+<p align="left" style="font-size: 15px; line-height: 1.55;">
+Atuação consultiva e desenvolvimento de soluções para empresas de grande porte, incluindo:
+<br>
+<strong>Valia</strong> · <strong>Banco do Brasil</strong> · <strong>Vibra Energia</strong> · <strong>GE Aerospace</strong> · <strong>TIM</strong><br>
+</p>
+
+<br>
+
+<h3>🔑 Palavras-chave</h3>
+
+<p align="left" style="font-size: 15px; line-height: 1.55;">
+IA Generativa · LLMs · RAG · Multi-Agentes · Google ADK · LangChain · LangGraph · Vertex AI · Azure OpenAI · Gemini API ·  
+FastAPI · React · Next.js · Docker · Kubernetes · Cloud Run · PostgreSQL · PGVector · REST APIs · CI/CD · Observabilidade · Python · TypeScript
+</p>
